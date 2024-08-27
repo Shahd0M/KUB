@@ -1,0 +1,1 @@
+ D:\\Flutter\ Project\\Real\ eCommerce\\authentication\\.dart_tool\\flutter_build\\061441e0f85844bf7ce8ec784d1d57b5\\native_assets.yaml: 

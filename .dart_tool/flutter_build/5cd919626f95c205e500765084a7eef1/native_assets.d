@@ -1,0 +1,1 @@
+ D:\\KUB_Project\\e-comme_bussines-com\\.dart_tool\\flutter_build\\5cd919626f95c205e500765084a7eef1\\native_assets.yaml: 
